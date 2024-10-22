@@ -58,7 +58,7 @@ msgstr "சூடான புத்தகங்களைக் காட்ட�
 msgid "Downloaded Books"
 msgstr "பதிவிறக்கம் செய்யப்பட்ட புத்தகங்கள்"
 
-msgid "Show Downloaded Books"
+msgid "Show Downloaded Books" 
 msgstr "பதிவிறக்கம் செய்யப்பட்ட புத்தகங்களைக் காட்டு"
 
 msgid "Top Rated Books"
@@ -89,32 +89,32 @@ msgid "Categories"
 msgstr "வகைகள்"
 
 msgid "Show Category Section"
-msgstr "வகைப் பிரிவைக் காட்டு"
+msgstr ""
 
 msgid "Series"
-msgstr "தொடர்"
+msgstr ""
 
 msgid "Show Series Section"
-msgstr "தொடர் பகுதியைக் காட்டு"
+msgstr ""
 
 msgid "Authors"
-msgstr "ஆசிரியர்கள்"
+msgstr ""
 
 msgid "Show Author Section"
-msgstr "ஆசிரியர் பகுதியைக் காட்டு"
+msgstr ""
 
 msgid "Publishers"
-msgstr "பதிப்பாளர்கள்"
+msgstr ""
 
 msgid "Show Publisher Section"
-msgstr "வெளியீட்டாளர் பகுதியைக் காட்டு"
+msgstr ""
 
 msgid "Languages"
-msgstr "மொழிகள்"
+msgstr ""
 
 msgid "Show Language Section"
-msgstr "மொழிப் பகுதியைக் காட்டு"
+msgstr ""
 
 msgid "Ratings"
-msgstr "மதிப்பீடுகள்"
+msgstr ""
 
